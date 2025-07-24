@@ -2,3 +2,6 @@ discord.py
 python-dotenv
 requests
 sys 
+aiohttp
+tenacity
+openai
