@@ -18,9 +18,9 @@ This is a Python-powered Discord bot that monitors the National Vulnerability Da
 ### 1. Clone this repo:
 ```bash
 1.
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/JJ-890/CVE_Bot.git
 2.
-cd YOUR-REPO-NAME
+cd CVE_Bot
 3.
 pip install -r requirements.txt
 4.
